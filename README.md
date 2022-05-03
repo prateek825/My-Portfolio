@@ -1,2 +1,2 @@
-# My-Portfolio
-This is my Portfolio website.
+# Git & Github Pratice
+This is the local for repository for git and github practice
